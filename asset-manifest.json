@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fruits-app-react/static/js/main.c24d6fda.js",
+    "index.html": "/fruits-app-react/index.html",
+    "main.c24d6fda.js.map": "/fruits-app-react/static/js/main.c24d6fda.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c24d6fda.js"
+  ]
+}
